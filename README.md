@@ -5,4 +5,4 @@
 
 - :scroll: I’m currently working on :computer:
 - 🌱 I’m currently learning to code
-- 👯 I’m looking to collaborate on it
+- 👯 I’m looking to collaborate
